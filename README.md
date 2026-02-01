@@ -2,6 +2,9 @@
 
 A browser extension that fixes the text direction of mathematical formulas (KaTeX elements) on ChatGPT by setting `dir="ltr"`.
 
+![Extension Screenshot](extension.jpg)
+
+
 ## Installation
 
 ### Chrome / Edge / Brave / Opera
