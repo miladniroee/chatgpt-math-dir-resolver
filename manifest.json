@@ -5,6 +5,11 @@
   "description": "Sets dir=ltr for KaTeX HTML elements on ChatGPT",
   "author": "Milad Niroee",
   "homepage_url": "https://github.com/miladniroee/chatgpt-math-dir-resolver",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mniroee@gmail.com"
+    }
+  },
   "icons": {
     "16": "icons/64px-ChatGPT-Logo.png",
     "48": "icons/64px-ChatGPT-Logo.png",
